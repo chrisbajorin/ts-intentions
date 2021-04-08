@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.chrisbajorin.tsintentions.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.chrisbajorin.tsintentions.MyBundle
 
 class MyApplicationService {
 
